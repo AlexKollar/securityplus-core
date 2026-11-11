@@ -1,0 +1,40 @@
+{
+  "format": "navi-rag/1",
+  "name": "Security+ Core",
+  "description": "CompTIA Security+ (SY0-701) core study pack: fundamentals, threats, architecture, identity, cryptography, network security, operations, governance \u2014 plus a high-frequency acronym glossary.",
+  "version": "1.0.0",
+  "documents": [
+    "documents/01-security-fundamentals.md",
+    "documents/02-threats-and-attacks.md",
+    "documents/03-architecture-and-design.md",
+    "documents/04-identity-and-access.md",
+    "documents/05-cryptography.md",
+    "documents/06-network-security.md",
+    "documents/07-operations-and-incidents.md",
+    "documents/08-governance-and-acronyms.md"
+  ],
+  "index": "index.json",
+  "generatedBy": "Apex \u2014 School Series pack (hand-authored)",
+  "icon": [
+    "....................",
+    "...##############...",
+    "..################..",
+    ".##################.",
+    ".##################.",
+    ".##################.",
+    ".####..######..####.",
+    "..####..####..####..",
+    "...#############....",
+    "....############....",
+    ".....##########.....",
+    "......########......",
+    ".......######.......",
+    "........####........",
+    ".........##.........",
+    "....................",
+    "....................",
+    "....................",
+    "....................",
+    "...................."
+  ]
+}
